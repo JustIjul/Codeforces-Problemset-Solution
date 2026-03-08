@@ -11,9 +11,10 @@ int main(){
 		long long n;
 		cin >> n;
 
-		if(n == 2) cout << "NO" << endl;
-		else if(n % 4 == 0) cout << "NO" << endl;
-		else cout << "YES" << endl;
+		while(n>1){
+			if(n%2==0)n/=2;
+			if(n%2==1)cout << "NO" << endl;
+		}
 	}
 	return 0;
 }
