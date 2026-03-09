@@ -1,0 +1,1 @@
+{"name":"Local: A-Puzzles","url":"c:\\Coding\\Codeforces\\Problemset\\A-Division\\A-Puzzles.cpp","tests":[{"id":1773047030747,"input":"4 6\n10 12 10 7 5 22\n","output":"5\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Coding\\Codeforces\\Problemset\\A-Division\\A-Puzzles.cpp","group":"local","local":true}
